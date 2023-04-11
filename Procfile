@@ -1,0 +1,1 @@
+web gunicorn Sim_Card.wsgi:apllication --log-file -
